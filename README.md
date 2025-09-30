@@ -10,7 +10,7 @@ Student: Vadym Vivchar
 Print the table containing student numbers, surnames, grades and the average score of each student.  
 
 Code: [Task1/main 44.cpp](Task1/main%2044.cpp)  
-Result: ![Screenshot](Task1/444.jpg)  
+Result: [Screenshot](Task1/444.jpg)  
 
 ---
 
@@ -18,7 +18,7 @@ Result: ![Screenshot](Task1/444.jpg)
 Array B(10) contains student surnames. Sort this array in alphabetical order.  
 
 Code: [Task2/main 55.cpp](Task2/main%2055.cpp)  
-Result: ![Screenshot](Task2/555.jpg)  
+Result: [Screenshot](Task2/555.jpg)  
 
 ---
 
