@@ -1,51 +1,41 @@
-Лабораторна робота №4
+Laboratory Work No.4  
+Topic: Development of programs with string variables and user-defined functions  
+Course: Object-Oriented Programming  
+Group: ALK-43  
+Student: Vadym Vivchar  
 
-Тема: Розробка програм з рядковими змінними та функціями користувача
-Дисципліна: Об’єктно-орієнтоване програмування
-Група: ALK-43
-Студент: Вівчар Вадим Вікторович
+Task 1 (Variant 6)  
+Print the table containing student numbers, surnames, grades and the average score of each student.  
 
-Мета роботи
+Code file: task1_variant6.cpp  
 
-Навчитися працювати з рядковими змінними у мові C++ та створювати власні функції користувача для їх обробки.
+Task 2 (Variant 8)  
+Array B(10) contains student surnames. Sort this array in alphabetical order.  
 
-Завдання 1 (Варіант 6)
+Code file: task2_variant8.cpp  
 
-Надрукувати таблицю, що містить номери, прізвища, оцінки та середній бал кожного студента групи.
+Control Questions  
+1. How to declare a character variable?  
+Answer: char c;  
 
-Код
+2. Which format specifier is used for input/output of characters?  
+Answer: %c  
 
-Файл: task1_variant6.cpp
+3. What are character arrays? How to declare them?  
+Answer: Character arrays are sequences of type char.  
+Example: char str[20];  
 
-Завдання 2 (Варіант 8)
+4. How to access a particular element in a character array?  
+Answer: By index, for example str[3];  
 
-Масив В(10) містить прізвища студентів. Впорядкувати його в алфавітному порядку.
+5. What is a string of characters? How to declare it?  
+Answer: A string is a character array terminated with a null character \0.  
+Example: char text[] = "Hello";  
 
-Код
+6. What is an array of character strings? How to declare it?  
+Answer: A two-dimensional array of characters, for example char words[5][20];  
 
-Файл: task2_variant8.cpp
+7. Which unformatted input-output functions for strings do you know?  
+Answer: gets(), puts(), cin.getline()  
 
-Контрольні запитання
 
-Як оголосити змінну символьного типу?
-Відповідь: char c;
-
-Який специфікатор формату використовується для введення та виведення символів?
-Відповідь: %c
-
-Що таке масиви символів? Як їх оголосити?
-Відповідь: Масив символів — набір елементів типу char.
-Приклад: char str[20];
-
-Як звернутися до певного елемента у масиві символів?
-Відповідь: через індекс, наприклад str[3].
-
-Що таке рядок символів? Як його оголосити?
-Відповідь: рядок символів — масив, що закінчується нуль-символом \0.
-Приклад: char text[] = "Hello";
-
-Що таке масив символьних рядків? Як його оголосити?
-Відповідь: двовимірний масив символів, наприклад char words[5][20];
-
-Які функції безформатного вводу-виводу рядків символів ви знаєте?
-Відповідь: gets(), puts(), cin.getline().
