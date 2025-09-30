@@ -10,7 +10,7 @@ Student: Vadym Vivchar
 Print the table containing student numbers, surnames, grades and the average score of each student.  
 
 Code: [Task1/task1_variant6.cpp](Task1/task1_variant6.основной 44.cpp)  
-Result: ![Screenshot](Task1/screenshot.png)  
+Result: ![Screenshot](Task1/screenshot.444.jpg)  
 
 ---
 
