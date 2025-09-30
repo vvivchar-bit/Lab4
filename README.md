@@ -9,8 +9,8 @@ Student: Vadym Vivchar
 ### Task 1 (Variant 6)  
 Print the table containing student numbers, surnames, grades and the average score of each student.  
 
-Code: [Task1/task1_variant6.cpp](Task1/task1_variant6.основной 44.cpp)  
-Result: ![Screenshot](Task1/screenshot.444.jpg)  
+Code: [Task1/task1_variant6.cpp](Task1/task1_variant6.cpp)  
+Result: ![Screenshot](Task1/screenshot.png)  
 
 ---
 
@@ -43,5 +43,4 @@ Answer: A two-dimensional array of characters. Example: char words[5][20];
 
 7. Which unformatted input-output functions for strings do you know?  
 Answer: gets(), puts(), cin.getline()  
-
 
